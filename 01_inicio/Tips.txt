@@ -1,0 +1,6 @@
+npm install -g tailwindcss
+
+npx tailwindcss init
+
+npx tailwind build styles.css -o src/css/styles.css
+
